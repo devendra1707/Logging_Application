@@ -1,0 +1,9 @@
+5/12/24 11:57:51: am [main] INFO  com.log.LoggingProjectApplication -- Starting LoggingProjectApplication using Java 17.0.5 with PID 11468 (C:\Users\91911\Documents\jv\AllInOne\LoggingProject\target\classes started by Devendra in C:\Users\91911\Documents\jv\AllInOne\LoggingProject)
+5/12/24 11:57:51: am [main] DEBUG com.log.LoggingProjectApplication -- Running with Spring Boot v3.4.0, Spring v6.2.0
+5/12/24 11:57:51: am [main] INFO  com.log.LoggingProjectApplication -- No active profile set, falling back to 1 default profile: "default"
+5/12/24 11:57:53: am [main] INFO  com.log.LoggingProjectApplication -- Started LoggingProjectApplication in 3.242 seconds (process running for 3.76)
+5/12/24 11:58:01: am [http-nio-8081-exec-1] TRACE com.log.controller.HomeController -- This is home page devendra patel
+5/12/24 11:58:01: am [http-nio-8081-exec-1] INFO  com.log.controller.HomeController -- This is home page devendra patel
+5/12/24 11:58:01: am [http-nio-8081-exec-1] WARN  com.log.controller.HomeController -- This is home page devendra patel
+5/12/24 11:58:01: am [http-nio-8081-exec-1] ERROR com.log.controller.HomeController -- This is home page devendra patel
+5/12/24 11:58:01: am [http-nio-8081-exec-1] DEBUG com.log.controller.HomeController -- This is home page devendra patel

@@ -1,0 +1,23 @@
+2024-12-05T11:26:12.367+05:30  INFO 2356 --- [LoggingProject] [main] com.log.LoggingProjectApplication        : Starting LoggingProjectApplication using Java 17.0.5 with PID 2356 (C:\Users\91911\Documents\jv\AllInOne\LoggingProject\target\classes started by Devendra in C:\Users\91911\Documents\jv\AllInOne\LoggingProject)
+2024-12-05T11:26:12.373+05:30 DEBUG 2356 --- [LoggingProject] [main] com.log.LoggingProjectApplication        : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-05T11:26:12.375+05:30  INFO 2356 --- [LoggingProject] [main] com.log.LoggingProjectApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-12-05T11:26:13.894+05:30  INFO 2356 --- [LoggingProject] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-12-05T11:26:13.918+05:30  INFO 2356 --- [LoggingProject] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-05T11:26:13.919+05:30  INFO 2356 --- [LoggingProject] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-05T11:26:14.011+05:30  INFO 2356 --- [LoggingProject] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-05T11:26:14.013+05:30  INFO 2356 --- [LoggingProject] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1513 ms
+2024-12-05T11:26:14.768+05:30  INFO 2356 --- [LoggingProject] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2024-12-05T11:26:14.795+05:30  INFO 2356 --- [LoggingProject] [main] com.log.LoggingProjectApplication        : Started LoggingProjectApplication in 3.19 seconds (process running for 3.695)
+2024-12-05T11:26:30.863+05:30  INFO 2356 --- [LoggingProject] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-05T11:26:30.863+05:30  INFO 2356 --- [LoggingProject] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-05T11:26:30.865+05:30  INFO 2356 --- [LoggingProject] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-12-05T11:26:30.944+05:30 TRACE 2356 --- [LoggingProject] [http-nio-8081-exec-1] com.log.controller.HomeController        : This is home page devendra patel333333333333333
+2024-12-05T11:26:30.946+05:30  INFO 2356 --- [LoggingProject] [http-nio-8081-exec-1] com.log.controller.HomeController        : This is home page devendra patel333333333333333
+2024-12-05T11:26:30.946+05:30  WARN 2356 --- [LoggingProject] [http-nio-8081-exec-1] com.log.controller.HomeController        : This is home page devendra patel333333333333333
+2024-12-05T11:26:30.946+05:30 ERROR 2356 --- [LoggingProject] [http-nio-8081-exec-1] com.log.controller.HomeController        : This is home page devendra patel333333333333333
+2024-12-05T11:26:30.946+05:30 DEBUG 2356 --- [LoggingProject] [http-nio-8081-exec-1] com.log.controller.HomeController        : This is home page devendra patel333333333333333
+2024-12-05T11:27:56.808+05:30 TRACE 2356 --- [LoggingProject] [http-nio-8081-exec-5] com.log.controller.HomeController        : This is home page devendra patel
+2024-12-05T11:27:56.808+05:30  INFO 2356 --- [LoggingProject] [http-nio-8081-exec-5] com.log.controller.HomeController        : This is home page devendra patel
+2024-12-05T11:27:56.808+05:30  WARN 2356 --- [LoggingProject] [http-nio-8081-exec-5] com.log.controller.HomeController        : This is home page devendra patel
+2024-12-05T11:27:56.808+05:30 ERROR 2356 --- [LoggingProject] [http-nio-8081-exec-5] com.log.controller.HomeController        : This is home page devendra patel
+2024-12-05T11:27:56.809+05:30 DEBUG 2356 --- [LoggingProject] [http-nio-8081-exec-5] com.log.controller.HomeController        : This is home page devendra patel
